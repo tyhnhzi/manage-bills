@@ -1,2 +1,3 @@
-# manage-ew-bills
-Manage Eletricity and Water Bills
+# manage-bills
+Quản lý hoá đơn điện nước hàng tháng.
+Sử dụng nodejs
